@@ -18,8 +18,11 @@ The player must:
 ## Controls
 
 Move: W / A / S / D
+
 Attack: Space
+
 Advance dialog: Enter
+
 Pause: P
 
 ## Technical Features
@@ -45,37 +48,37 @@ The project follows a modular design:
 
 ## Screenshots
 
-Title page:
+## Title page:
 
 <p align="center">
   <img src="docs/images/title_page.png" width="600">
 </p>
 
-Main scene:
+## Main scene:
 
 <p align="center">
   <img src="docs/images/main_scene.png" width="600">
 </p>
 
-Saloon scene:
+## Saloon scene:
 
 <p align="center">
   <img src="docs/images/saloon_scene.png" width="600">
 </p>
 
-Maze challenge:
+## Maze challenge:
 
 <p align="center">
-  <img src="docs/images/maze_challange.png" width="600">
+  <img src="docs/images/maze_challange.png" width="300">
 </p>
 
-Flower picking challenge:
+## Flower picking challenge:
 
 <p align="center">
-  <img src="docs/images/flower_challange.png" width="600">
+  <img src="docs/images/flower_challange.png" width="300">
 </p>
 
-Fair scene:
+## Fair scene:
 
 <p align="center">
   <img src="docs/images/fair_scene.png" width="600">
